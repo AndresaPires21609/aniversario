@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(230, 185, 236);
+    display: flex;
+    padding: 30px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+.cabecalho{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cabecalho h2{
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    color: rgb(145, 152, 250);
+}
+
+.cabecalho p{
+    color: rgb(0, 0, 0);
+    font-family: 'Covered By Your Grace', cursive;
+    text-align: center;
+}
+
+.cabecalho img{
+    width: 50px;
+}
+
+#pato{
+    text-align: center;
+}
+
+.texto{
+    background-color: rgb(145, 152, 250);
+    width: 340px;
+    border: 4px groove #6959CD;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 20px;
+    text-align: justify;
+}
+
+
